@@ -3,7 +3,7 @@
 
 - 📚 I'm a student from [Campus Latinoamerica](https://co.linkedin.com/company/campusprogrammersland)
 
-- 🌱 I’m currently learning **Back end**
+- 🌱 I’m currently learning **Back-End**
 
 - 📫 How to reach me **havertzz04@gmail.com**
 
