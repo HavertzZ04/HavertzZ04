@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Back-End**
 
+- 🗣️ I can speak perfectlly in **English and Spanish**
+
 - 📚 I'm a student from [Campus Latinoamerica](https://co.linkedin.com/company/campusprogrammersland)
 
 - 📫 How to reach me **havertzz04@gmail.com**
-
-- 🗣️ I can speak perfectlly in **English and Spanish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
