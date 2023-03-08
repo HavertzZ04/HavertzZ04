@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, this is HavertzZ</h1>
 <h3 align="center">If you can imagine it, you can program it.</h3>
 
-- See my repositories organized by [lists](https://github.com/HavertzZ04?tab=stars)
+- ✅ See my repositories organized by [lists](https://github.com/HavertzZ04?tab=stars)
 
 - 🌱 I’m currently learning **Back-End**
 
