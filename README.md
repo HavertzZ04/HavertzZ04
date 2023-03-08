@@ -1,11 +1,11 @@
 <h1 align="center">Hello World, this is HavertzZ</h1>
-<h3 align="center">If you can imagine it, you can program it.</h3>
+<h3 align="center">If you can imagine it, you can program it. 🛸</h3>
 
 - 🔖 See my repositories organized by [lists](https://github.com/HavertzZ04?tab=stars)
 
 - 🌱 I’m currently learning **Back-End**
 
-- 🗣️ I can speak perfectlly in **English and Spanish**
+- 🗣️ I can speak perfectly in **English and Spanish**
 
 - 📚 I'm a student from [Campus Latinoamerica](https://co.linkedin.com/company/campusprogrammersland)
 
