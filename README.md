@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, this is HavertzZ</h1>
 <h3 align="center">If you can imagine it, you can program it. 🛸</h3>
 
-<img src="[https://i.pinimg.com/564x/45/a5/f0/45a5f0318efbb24febdb77512ae95875.jpg](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2255cc24-c8ca-45d6-b011-b2d747a3ec4a/dctl6p2-01ad52f9-a235-4aa4-b8f6-a0f27becb80a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyNTVjYzI0LWM4Y2EtNDVkNi1iMDExLWIyZDc0N2EzZWM0YVwvZGN0bDZwMi0wMWFkNTJmOS1hMjM1LTRhYTQtYjhmNi1hMGYyN2JlY2I4MGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GAC4ZCDHAlNFVaGiAHBiZ11rfeauPcXrti6suZPQp6M)">
+<img src="https://www.newcastle.edu.au/__data/assets/image/0009/266067/01-Computer.jpg">
 
 - 🔖 See my repositories organized by [lists](https://github.com/HavertzZ04?tab=stars)
 
