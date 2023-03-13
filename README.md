@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, this is HavertzZ</h1>
 <h3 align="center">If you can imagine it, you can program it. 🛸</h3>
 
-<img src="[https://www.newcastle.edu.au/__data/assets/image/0009/266067/01-Computer.jpg](https://images.interestingengineering.com/img/iea/JYG0g7laO1/software-quality-assurance-11-stuff.jpg)">
+<img src="https://images.interestingengineering.com/img/iea/JYG0g7laO1/software-quality-assurance-11-stuff.jpg">
 
 - 🔖 See my repositories organized by [lists](https://github.com/HavertzZ04?tab=stars)
 
