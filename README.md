@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, this is HavertzZ</h1>
 <h3 align="center">If you can imagine it, you can program it. 🛸</h3>
 
-<img src="https://www.uniting.cloud/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXNkQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1de253bb46cd4c42a3c6ca8de5a128904690bfc3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2c2QzNKbGMybDZaVWtpRGpJd01EQjROakF3WGdZNkJrVlVPZ3huY21GMmFYUjVTU0lMUTJWdWRHVnlCanNIVkRvSlkzSnZjRWtpRVRJd01EQjROakF3S3pBck1BWTdCMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--be8854b396cd9bc9d1dc260bdecdac90f9a2a087/82bef9c9">
+<img src="https://media.licdn.com/dms/image/C4D16AQE2OeXCBtQsNA/profile-displaybackgroundimage-shrink_200_800/0/1634332853894?e=2147483647&v=beta&t=wjW0ooPX5sWk26H6mNc6KhAMkcIAoV66paXRRxET0lg">
 
 - 🔖 See my repositories organized by [lists](https://github.com/HavertzZ04?tab=stars)
 
