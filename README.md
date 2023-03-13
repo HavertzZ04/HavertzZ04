@@ -3,7 +3,7 @@
 
 - 🔖 See my repositories organized by [lists](https://github.com/HavertzZ04?tab=stars)
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **PHP**
 
 - 🗣️ I can speak perfectly in **English and Spanish**
 
