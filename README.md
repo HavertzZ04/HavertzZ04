@@ -16,5 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&locale=en" alt="havertzz04" /></p>
 
-
+<h3 align= "left">Most Used Languages</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&locale=en&theme=tokyonight&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact" alt="angelvelasco1" /></p>
 
