@@ -18,3 +18,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact&locale=en" alt="havertzz04" /></p>
 
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&locale=en&layout=compact" alt="havertzz04" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=havertzz04&show_icons=true&locale=en" alt="havertzz04" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=havertzz04&" alt="havertzz04" /></p>
