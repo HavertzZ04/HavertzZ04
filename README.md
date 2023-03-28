@@ -1,6 +1,9 @@
 <h1 align="center">Hello World, this is HavertzZ</h1>
 <h3 align="center">If you can imagine it, you can program it. 🛸</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=havertzz04&label=Profile%20views&color=0e75b6&style=flat" alt="havertzz04" /> </p>
+
+
 - 🔖 See my repositories organized by [lists](https://github.com/HavertzZ04?tab=stars)
 
 - 🌱 I’m currently learning **JavaScript**
@@ -17,9 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&locale=en" alt="havertzz04" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact&locale=en" alt="havertzz04" /></p>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=havertzz04&label=Profile%20views&color=0e75b6&style=flat" alt="havertzz04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=havertzz04" alt="havertzz04" /></a> </p>
