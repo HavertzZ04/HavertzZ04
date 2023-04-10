@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=havertzz04&label=Profile%20views&color=0e75b6&style=flat" alt="havertzz04" /> </p>
 
-
 - 🔖 See my repositories organized by [lists](https://github.com/HavertzZ04?tab=stars)
 
 - 🌱 I’m currently learning **JavaScript**
