@@ -9,7 +9,7 @@
 
 - 🗣️ I can speak perfectly in **English and Spanish**
 
-- 📚 I'm a student from [Campus Latinoamerica](https://co.linkedin.com/company/campusprogrammersland)
+- 📚 I'm a student from [Campuslands](https://co.linkedin.com/company/campusprogrammersland)
 
 - 📫 How to reach me **havertzz04@gmail.com**
 
