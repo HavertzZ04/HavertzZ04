@@ -15,7 +15,7 @@
       <li><strong>Instagram:</strong> <a href="https://www.instagram.com/havertzz04/">havertzz04</a></li>
     </ul>
   </div>
-  <div style="flex: 1;">
+  <div style="display: flex; flex-direction: column; flex: 1;">
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -40,11 +40,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       </a>
     </p>
-    <p align="right">
+    <p align="left">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact&locale=en" alt="havertzz04"/>
     </p>
   </div>
 </div>
+
 
 
 
