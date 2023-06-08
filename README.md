@@ -1,8 +1,11 @@
 <h1 align="center">Hello World, this is HavertzZ</h1>
 <h3 align="center">If you can imagine it, you can program it. 🛸</h3>
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-  <div>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=havertzz04&label=Profile%20views&color=0e75b6&style=flat" alt="havertzz04" /> </p>
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <p align="left">
+      <img src="https://komarev.com/ghpvc/?username=havertzz04&label=Profile%20views&color=0e75b6&style=flat" alt="havertzz04" />
+    </p>
     <ul>
       <li><strong>See my repositories organized by</strong> <a href="https://github.com/HavertzZ04?tab=stars">lists</a></li>
       <li><strong>I’m currently learning</strong> PHP 8</li>
@@ -12,9 +15,9 @@
       <li><strong>Instagram:</strong> <a href="https://www.instagram.com/havertzz04/">havertzz04</a></li>
     </ul>
   </div>
-  <div>
+  <div style="flex: 1;">
     <h3 align="left">Languages and Tools:</h3>
-    <p align="left"> 
+    <p align="left">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       </a>
@@ -37,7 +40,9 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
       </a>
     </p>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact&locale=en" alt="havertzz04"/></p>
+    <p align="right">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact&locale=en" alt="havertzz04"/>
+    </p>
   </div>
 </div>
 
