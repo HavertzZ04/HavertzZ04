@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **havertzz04@gmail.com**
 
-- ❤️ Instagram: [havertzz04](www.instagram.com/havertzz04)
+- ❤️ Instagram: [havertzz04](https://www.instagram.com/havertzz04/)
 
 
 <h3 align="left">Languages and Tools:</h3>
