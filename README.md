@@ -1,14 +1,10 @@
 <h1 align="center">Hello World, this is HavertzZ</h1>   
 <h3 align="center">If you can imagine it, you can program it. 🛸</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=havertzz04&label=Profile%20views&color=0e75b6&style=flat" alt="havertzz04" /> </p>
- 
-- 🔖 See my repositories organized by [lists](https://github.com/HavertzZ04?tab=stars)
 
-- 🌱 I’m currently learning **PHP 8**
+- 🌱 I’m currently learning **JavaScript**
 
 - 🗣️ I can speak perfectly in **English and Spanish**
-
-- 📚 I'm a student from [Campuslands](https://co.linkedin.com/company/campusprogrammersland)
 
 - 📫 How to reach me **havertzz04@gmail.com**
 
