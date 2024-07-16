@@ -19,7 +19,7 @@
             <img class="images-list" src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/Python.png" alt="python" width="40" height="40"/> 
             <img class="images-list" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" "/> 
             <img class="images-list" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>  
-            <img class="images-list" src="https://www.manualweb.net/img/logos/flask.png" alt="flask" width="40" height="50"/> 
+            <img class="images-list" src="https://www.manualweb.net/img/logos/flask.png" alt="flask" width="48" height="55"/> 
             <img class="images-list" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" alt="linux" width="40" height="45"/>
             <img class="images-list" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1200px-Windows_logo_-_2012_derivative.svg.png" alt="windows" width="40" height="40"/> 
             <img class="images-list" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="git" width="42" height="42"/> 
