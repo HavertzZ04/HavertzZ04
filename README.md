@@ -22,11 +22,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </p>
 
-<p><img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact&locale=en" alt="havertzz04"/></p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact&locale=en" alt="Top Langs" style="width:45%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&locale=en" alt="GitHub Stats" style="width:45%;"/>
+</p>
 
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&locale=en" alt="havertzz04"/></p>
-
-<picture style="jutify">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake.svg">
-</picture>  
+</picture>
+
