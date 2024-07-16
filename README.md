@@ -23,7 +23,9 @@
             <img class="images-list" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" alt="linux" width="40" height="45"/>
             <img class="images-list" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1200px-Windows_logo_-_2012_derivative.svg.png" alt="windows" width="40" height="40"/> 
             <img class="images-list" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="git" width="42" height="42"/> 
-            <img class="images-list" src="https://cdn-icons-png.freepik.com/512/4494/4494756.png" alt="github" width="40" height="40"/> 
+            <img class="images-list" src="https://cdn-icons-png.freepik.com/512/4494/4494756.png" alt="github" width="40" height="40"/>
+            <img class="images-list" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="visual" width="40" height="40"/> 
+            <img class="images-list" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="40" height="40"/> 
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
