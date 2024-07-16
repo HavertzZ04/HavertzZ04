@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, this is HavertzZ</h1>   
 <h3 align="center">If you can imagine it, you can program it. 🛸</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=havertzz04&label=Profile%20views&color=0e75b6&style=flat" alt="havertzz04"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=havertzz04&label=Profile%20views&color=0e75b6&style=flat" alt="havertzz04"/></p>
 
 - 🌱 I’m currently learning **Python and Django**
 
@@ -25,5 +25,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact&locale=en" alt="havertzz04"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&locale=en" alt="havertzz04"/></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CODE-G-ROOT&column=7&margin-h=15&no-frame=true&theme=gruvbox&no-bg=true"/></a></p>
 
+<picture style="jutify">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CODE-G-ROOT/CODE-G-ROOT/output/github-contribution-grid-snake.svg">
+</picture>  
