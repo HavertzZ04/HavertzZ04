@@ -28,8 +28,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact&locale=en" alt="Top Langs" style="width:15%;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&locale=en" alt="GitHub Stats" ;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&layout=compact&locale=en" alt="Top Langs" style="height:15rem;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=havertzz04&show_icons=true&theme=tokyonight&title_color=f5fdff&hide_border=true&locale=en" alt="GitHub Stats" style="height:15rem;"/>
 </p>
 
 <picture>
