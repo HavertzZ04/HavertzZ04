@@ -12,14 +12,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="background-color:white;"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+            <img class="images-list" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" alt="html5" width="80" height="80"/>  
+            <img class="images-list" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" alt="css3" width="80" height="80"/>  
+            <img class="images-list" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="78"/>  
+            <img class="images-list" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="90" height="79"/> 
+            <img class="images-list" src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/Python.png" alt="python" width="88" height="85"/> 
+            <img class="images-list" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="70" height="80" "/> 
+            <img class="images-list" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/>  
+            <img class="images-list" src="https://www.manualweb.net/img/logos/flask.png" alt="flask" width="80" height="100"/> 
+            <img class="images-list" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png" alt="linux" width="80" height="85"/>
+            <img class="images-list" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1200px-Windows_logo_-_2012_derivative.svg.png" alt="windows" width="80" height="80"/> 
+            <img class="images-list" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="git" width="83" height="83"/> 
+            <img class="images-list" src="https://cdn-icons-png.freepik.com/512/4494/4494756.png" alt="github" width="87" height="87"/> 
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
